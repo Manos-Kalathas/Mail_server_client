@@ -1,0 +1,2 @@
+Open the server file with a port number as an argument preferably a dynamic/ephemeral one
+Open the client file with your local ip address and the port number used as argument in the server file respectively
