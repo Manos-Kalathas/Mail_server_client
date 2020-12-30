@@ -1,4 +1,0 @@
-Username       		Password
-Geon@csd.auth.gr	sabd
-Dean@csd.auth.gr	098f
-papado@gmail.com	am!2js
